@@ -7,8 +7,7 @@ The Virtual Tablet project aims to create a virtual writing tablet that enables 
 Pen Position Tracking: Utilizes OpenCV to track the position of the pen’s tip, allowing precise determination of its actual location.  
 Color Detection: Measures the color of the pen tip based on its hue, saturation, and value (HSV) to match the closest solid ink color for digital text creation.  
 Digital Document Creation: Converts handwritten input into digital text documents.  
-Future Enhancements:  
-The next phase of the Virtual Tablet project involves integrating it with online meeting platforms. This integration will enable the real-time conversion of handwritten slides into digital documents, facilitating seamless sharing and collaboration during virtual meetings.  
+Future Enhancements: The next phase of the Virtual Tablet project involves integrating it with online meeting platforms. This integration will enable the real-time conversion of handwritten slides into digital documents, facilitating seamless sharing and collaboration during virtual meetings.  
 
 **Installation:**  
 To install and run the Virtual Tablet project, follow these steps:  
